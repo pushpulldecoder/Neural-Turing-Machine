@@ -1,5 +1,6 @@
 # Neural-Turing-Machine
 
 ## ToDo
-[] Memory Visualization
-[] Shortest path in graph
+- [ ] Memory Visualization
+- [ ] Finding shortest path in graph
+- [ ] Parallelization
